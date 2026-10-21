@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+venv/
+.venv/
+
+# Local data and generated output (your real tenant export stays out of Git;
+# the fictional files in sample_data/ are committed on purpose)
+/output/
+/tenant*.json
+/changes*.csv
+/data/
+
+# Secrets
+.env
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
