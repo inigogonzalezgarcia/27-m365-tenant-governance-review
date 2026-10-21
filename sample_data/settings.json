@@ -1,0 +1,18 @@
+{
+  "tenant": "Wide World Importers",
+  "as_of": "2026-10-21",
+  "provider": "Proseware",
+  "provider_domains": [
+    "proseware.example"
+  ],
+  "break_glass": [
+    "bg-01@wideworldimporters.onmicrosoft.com",
+    "bg-02@wideworldimporters.onmicrosoft.com"
+  ],
+  "licence_costs": {
+    "SPE_E3": 36.0,
+    "SPE_F3": 8.0,
+    "POWER_BI_PRO": 14.0,
+    "VISIOCLIENT": 15.0
+  }
+}
